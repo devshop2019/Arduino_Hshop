@@ -1,0 +1,10 @@
+C:\Hshop program\Nhan vien\Bao\Hshop_Circuit\Test_US-15
+
+Vcc - 5V
+Trig - 7
+Echo - 8
+GND - GND
+
+9600
+
+test: vthanh

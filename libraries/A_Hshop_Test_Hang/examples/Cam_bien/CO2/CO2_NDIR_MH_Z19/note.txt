@@ -1,0 +1,11 @@
+C:\Hshop program\Nhan vien\Lai\test cam bien\test_co2
+- Tester: vthanh
+16/5/2020
+
+*nho keo tro nhen ^^
+
+ARDUINO UNO------------------CO2 SENSOR
+*   5V----------------------V_in
+*   Gnd---------------------Gnd
+*   2-----------------------Tx(keo tro nhu hinh)
+*   3-----------------------Rx(keo tro nhu hinh)

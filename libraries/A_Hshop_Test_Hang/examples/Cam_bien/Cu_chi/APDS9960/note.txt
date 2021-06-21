@@ -1,0 +1,17 @@
+vthanh
+
+16/05/2020
+https://github.com/vietduino/APDS9960_Gesture_RGB_HSHOP
+
+* han 2 diem tren mach nhu hinh mach moi hoat dong
+
+3.3V         VCC              Power
+ GND          GND              Ground
+ A4           SDA              I2C Data
+ A5           SCL              I2C Clock
+ 2            INT              Interrupt
+
+
+* neu chua han nhu hinh: https://hshop.vn/products/cam-bien-huong-chuyen-dong-hong-ngoai-rgb-gesture-apds-9960 thi: 
++ keo tro cho SDA,SCL
++ noi 3v3 - VL (APDS9960)

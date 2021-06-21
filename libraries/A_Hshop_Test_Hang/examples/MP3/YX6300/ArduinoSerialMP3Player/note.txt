@@ -1,0 +1,9 @@
+ARDUINO         MP3
+
+6        _     RX
+5        -     TX
+5V       -     VCC
+GND      -     GND
+
+* Ket noi,gan the nho -> den sang
+  play nhac           -> den chop - tat        

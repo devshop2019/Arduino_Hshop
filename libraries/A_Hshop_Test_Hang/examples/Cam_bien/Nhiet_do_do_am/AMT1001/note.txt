@@ -1,0 +1,8 @@
+ 12/2/2020  - tester: vthanh
+
+phai co tro 10k nhu hinh
+
+ 5v - 5v
+ GND - GND
+ A0 - Tout
+ A1 - Hout

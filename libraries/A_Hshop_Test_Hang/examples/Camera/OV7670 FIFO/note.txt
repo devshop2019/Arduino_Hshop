@@ -1,0 +1,24 @@
+7/5/2021
+vthanh
+
+https://navody.dratek.cz/navody-k-produktum/vga-kamera-ov7670.html
+https://processing.org/download/
+https://www.youtube.com/watch?v=1hpoxSXAGfM&ab_channel=Dr%C3%A1tekn%C3%A1vody
+                                                                          
+Mega                Camera OV                        / Cach test:
+ X     -              3V3 (Cap Nguon rieng 3V3 _2A)  / 1. Nap code               - hinh 1a,1b
+Gnd     -              Gnd                           / 2. ket noi day            - hinh 2
+Gnd     -              OE                            / 3. mo phan mem processing - hinh 3
+A3      -              D3                            / 4. Trong phan mem mo file "receive_stream_mega"                           - hinh 4a,4b,4c,4d
+A4      -              D4                            / 5. Sua COM trong code(dong 73) -> COM Mega tuong ung trong Device Manager 
+A5      -              D5                            /                                                                           - hinh 5
+A6      -              D6                            / 6. Nhan Play              - hinh 3
+A7      -              D7                            / 7. Nhap chuot vao giua cua so receive_stream_mega - go phim "Space bar" de chuyen sang che do hien thi khac nhau - hinh 7
+2       -              VSY                           /
+8       -              WR                            /            
+9       -              RCK                           /
+12      -              WRST                          /
+13      -              RRST                          /
+20      -              SIOD                          /
+21      -              SIOC                          /
+

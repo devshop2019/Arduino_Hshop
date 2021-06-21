@@ -1,0 +1,8 @@
+y21m03d19: Xuan Ngoc test
+ - Dung 2 Uno nap 2 chuong trinh: Can_Test_Hshop_Reciever va Can_Test_Hshop_Transmiter
+ - Jumper J3 de trong (Xem hinh dinh kem CanBusSHield_J3.jpg), khong han neu dung day bus (NGAN') test => neu test day Dai phai han tat jumper J3 lai
+ - Ket qua test:
+	+ Gan mach ben Reciever vao may tinh, xem Serial Monitor voi Baudrate 115200 xem Init OK chua, neu OK den led Init tren Shield se sang len
+	+ Gan den Led vao chan 2, den led se khong thay doi trang thai den khi mach ben Transmiter duoc cap nguon.\
+	+ Cap nguon vao mach Transmiter, Led o chan 2 cua Uno se blink 1s, dong thoi xem data tren Serial Monitor (mach ben Reciever)
+	+ Trung da quay Video lai qua trinh test Upload Youtube!

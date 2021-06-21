@@ -1,0 +1,5 @@
+Update: 21.11.2020
+Tester: H.Qui
+chi can gan shield vao arrduino va ket noi voi cong USB arduino thoi nhe,
+ khong duoc cap nguon vao jac dc 5v neu test voi Arduino.
+Nho tra the nho nhe.

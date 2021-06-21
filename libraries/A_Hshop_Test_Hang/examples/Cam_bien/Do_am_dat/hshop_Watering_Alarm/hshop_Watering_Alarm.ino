@@ -1,0 +1,32 @@
+#include <Wire.h>
+
+void setup() {
+  Wire.begin();
+  Serial.begin(9600);
+}
+
+void writeI2CRegister8bit(int addr, int value) {
+  Wire.beginTransmission(addr);
+  Wire.write(value);
+  Wire.endTransmission();
+}
+
+unsigned int readI2CRegister16bit(int addr, int reg) {
+  Wire.beginTransmission(addr);
+  Wire.write(reg);
+  Wire.endTransmission();
+  delay(1100);
+  Wire.requestFrom(addr, 2);
+  unsigned int t = Wire.read() << 8;
+  t = t | Wire.read();
+  return t;
+}
+
+void loop() {
+  Serial.print(readI2CRegister16bit(0x20, 0)); //read capacitance register
+  writeI2CRegister8bit(0x20, 3); //request light measurement 
+  delay(2000);                   //this can take a while
+  Serial.print(", ");
+  Serial.println(readI2CRegister16bit(0x20, 4)); //read light register
+  delay(500);
+}

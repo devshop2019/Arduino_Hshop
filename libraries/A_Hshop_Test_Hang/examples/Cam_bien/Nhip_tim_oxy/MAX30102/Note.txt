@@ -1,0 +1,15 @@
+C:\Hshop program\Nhan vien\Bao\Hshop_Circuit\MAX30100_oxy
+
+- Tester: vthanh
+
+
+
+
+Keo tro ( / den-do-vang-do-nau / 2,4k) o chan DA,CL
+
+arduino       Max30100
+
+5V       -     VIN
+GND      -     GND
+5V   -  tro -  DA,A4
+5V   -  tro -  CL,A5

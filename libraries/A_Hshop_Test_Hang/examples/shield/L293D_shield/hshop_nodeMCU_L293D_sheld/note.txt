@@ -1,0 +1,8 @@
+C:\Hshop program\Nhan vien\Bao\Hshop_Circuit\NodeMcu L293D
+
+- Tester: vthanh
+
+1.nap code Node MCU
+2.cam vao L239D
+3.cam jumper Vin-VM
+4.cap nguon - do VOM 2 cho dong co

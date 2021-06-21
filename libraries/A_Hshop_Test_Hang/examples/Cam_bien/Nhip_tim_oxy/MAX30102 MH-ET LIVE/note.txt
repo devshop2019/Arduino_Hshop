@@ -1,0 +1,7 @@
+6/6/2020
+vthanh
+https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library
+
+* keo tro SDA,SCL
+  baudrate: 115200
+ nap  code - baudrate: 115200 - nhap A - enter

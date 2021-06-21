@@ -1,0 +1,16 @@
+https://circuitdigest.com/microcontroller-projects/graphical-lcd-interfacing-with-arduino
+
+
+*Phai han noi J1 Tren mach
+
+
+BLK - GND
+BLA - 5V
+PSB - GND(FOR SPI)
+RS  - PIN 10
+R/W - PIN 11
+E   - PIN 13
+VSS - GND
+VDD - 5V
+
+vthanh- chua gom thu vien - co the nap bang file .hex hoac lam nhu huong dan o link tren

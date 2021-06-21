@@ -1,0 +1,4 @@
+Date: 11/09/2020
+Tester: H.Qui
+-Lay VOM do chan tren chip MCP2515 xem chan giao tiep IPS la chan 9 hay chan 10
+-Nap code sen_Blink ( Luu y: xem khai bao SPI_CS_PIN)

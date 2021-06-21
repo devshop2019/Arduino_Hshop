@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\ChuongTrinhMauTestVoiArduino\LCD\TFT\1_44_TFT_Ngoc
+
+ TFT_MOSI A2  // Data out
+ TFT_SCLK A1  // Clock out
+ TFT_CS        A5//10
+ TFT_RST       A4// 9 // Or set to -1 and connect to Arduino RESET pin
+ TFT_DC        A3// 8
+ TFT_BACKLIGHT  A0
+
+test: vthanh
+
+3/2/2020

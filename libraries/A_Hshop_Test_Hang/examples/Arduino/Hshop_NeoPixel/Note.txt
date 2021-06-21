@@ -1,0 +1,12 @@
+Hiep 	16/12/2020
+
+
+Do - Duong (+5V) 
+Trang - GND
+Xanh lá - DI 
+
+- Chú ý chieu mui tên
+- Neu muon sáng het các Led phai cap nguon ngoài
+	~ 30 Leds/m --- 9W/m
+	~ 60 Leds/m --- 18W/m
+	~ 144 Leds/m --- 43.2W/m

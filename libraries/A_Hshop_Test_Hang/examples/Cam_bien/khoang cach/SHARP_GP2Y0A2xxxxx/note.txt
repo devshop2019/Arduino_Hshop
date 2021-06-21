@@ -1,0 +1,7 @@
+C:\Hshop program\Nhan vien\Bao\Hshop_Circuit\SHARP_GP2Y0A21YK0
+
+Do - 5V
+DEN - 0V
+VANG - A0  9600
+
+- Tester: vthanh

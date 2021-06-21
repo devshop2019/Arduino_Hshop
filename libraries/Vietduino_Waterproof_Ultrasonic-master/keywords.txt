@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Vietduino_Waterproof_Ultrasonic
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Vietduino_Ultrasonic				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ping_cm							KEYWORD2
+getMode							KEYWORD2
+getR27							KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+Vietduino_Waterproof_Ultrasonic		LITERAL1

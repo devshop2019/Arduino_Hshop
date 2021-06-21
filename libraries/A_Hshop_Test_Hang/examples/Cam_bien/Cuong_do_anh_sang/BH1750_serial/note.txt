@@ -1,0 +1,7 @@
+vthanh
+1/6/2021
+
+*
+chu y dia chi I2C sua code tuong ung
+
+9600

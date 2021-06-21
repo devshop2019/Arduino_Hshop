@@ -1,0 +1,7 @@
+
+Vcc - 5V
+gnd - gnd
+out - A0
+9600
+
+test: vthanh

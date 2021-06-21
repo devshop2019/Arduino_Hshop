@@ -1,0 +1,6 @@
+12/10/2020
+vthanh
+
+https://github.com/elechouse/PN532
+
+*nho gat nut tuong ung voi cac chuan giao tiep I2C/SPI/UART

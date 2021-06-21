@@ -1,0 +1,23 @@
+25/6/2020
+vthanh
+van tay    -   arduino
+   RX      -   3
+   TX      -   2
+
+Bau: 19200
+
+bo ky tu cuoi trong terminal(hinh)
+
+test = code arduino
+
+1.mo terminal
+2.chon COM & bau
+3.nhan 1
+4.nhan so thu tu luu van tay
+5.dua tay vao cam bien - den khi hien: GET data 1,GET data 2,GET data 3 -> mach tot
+
+0.kiem tra van tay da luu
+1.nhan 2 
+2.dua van tay da luu vao cam bien - hien ra so ID da luu la dc
+
+

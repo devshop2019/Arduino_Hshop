@@ -1,0 +1,9 @@
+31/10/2020
+vthanh
+
+1. nap code tren - ket noi day 
+2. mo serial monitor - 9600
+3. nhap 1 - enter - do VOM thang do DC 20V: gia tri khoang 2..      V
+4. nhap 2 - enter - do VOM thang do DC 20V: gia tri khoang 2..+0.03 V
+
+(thay doi gia tri dien ap tren VOM khi thay doi gia tri nhap tren serial monitor [tu 1 - 511] )
